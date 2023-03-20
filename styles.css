@@ -11,7 +11,7 @@
 		border: 1px solid gray;
 }
 .author{
-/* 	text-align: right; */
-	right:0;
+	text-align: right;
+	font-family: italic;
 	
 }
