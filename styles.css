@@ -2,6 +2,7 @@
 .container{
 	padding: 20px;
 	background-color: #F5F4F6;	
+	font-size: 8px;
 }
 .item{
 	background-color: white;
